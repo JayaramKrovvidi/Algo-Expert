@@ -1,6 +1,5 @@
 ## Two Number Sum
 
-
 Write a function that takes in a non-empty array of distinct integers and an integer representing target sum. If any two numbers in the input array sum up to the target sum, the function should return them in an array, in any order. If no two numbers sum up to the target sum, the function should return an empty array.
 
 Note that the target sum has to be obtained by summing two different integers in the array; you can't add a single integer to itself in order to obtain the target sum.
@@ -70,8 +69,8 @@ vector<int> twoNumberSum(vector<int> array, int targetSum) {
 
 ```json
 {
-  "array": [3, 5, -4, 8, 11, 1, -1, 6],
-  "targetSum": 10
+  "array": [-21, 301, 12, 4, 65, 56, 210, 356, 9, -47],
+  "targetSum": 164
 }
 ```
 
