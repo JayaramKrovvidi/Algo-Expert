@@ -6,8 +6,6 @@ Note that the target sum has to be obtained by summing two different integers in
 
 You can assume that there will be at most one pair of numbers summing up to the target sum.
 
-<br/>
-
 ---
 
 ### Sample Input:
@@ -22,8 +20,6 @@ You can assume that there will be at most one pair of numbers summing up to the 
 ```cpp
     [-1, 11] // the numbers could be in reverse order
 ```
-
-<br/>
 
 ---
 

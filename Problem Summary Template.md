@@ -2,8 +2,6 @@
 
 Problem Description
 
-<br/>
-
 ---
 
 ### Sample Input:
@@ -17,8 +15,6 @@ Problem Description
 ```cpp
 
 ```
-
-<br/>
 
 ---
 
