@@ -144,7 +144,7 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 1</center>
 
 ```json
 {
@@ -152,7 +152,7 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 2</center>
 
 ```json
 {
@@ -160,7 +160,7 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 3</center>
 
 ```json
 {
@@ -168,7 +168,7 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 4</center>
 
 ```json
 {
@@ -182,7 +182,7 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 5</center>
 
 ```json
 {
