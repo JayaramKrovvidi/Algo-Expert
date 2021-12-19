@@ -1,16 +1,15 @@
 ## Two Number Sum
 
-    Write a function that takes in a non-empty array of distinct integers and an integer representing target sum. If any two numbers in the input array sum up to the target sum, the function should return them in an array, in any order. If no two numbers sum up to the target sum, the function should return an empty array.
 
-    Note that the target sum has to be obtained by summing two different integers in the array; you can't add a single integer to itself in order to obtain the target sum.
+Write a function that takes in a non-empty array of distinct integers and an integer representing target sum. If any two numbers in the input array sum up to the target sum, the function should return them in an array, in any order. If no two numbers sum up to the target sum, the function should return an empty array.
 
-    You can assume that there will be at most one pair of numbers summing up to the target sum.
+Note that the target sum has to be obtained by summing two different integers in the array; you can't add a single integer to itself in order to obtain the target sum.
+
+You can assume that there will be at most one pair of numbers summing up to the target sum.
 
 <br/>
 
 ---
-
-<br/>
 
 ### Sample Input:
 
@@ -28,8 +27,6 @@
 <br/>
 
 ---
-
-<br/>
 
 ## Hints:
 
@@ -71,8 +68,6 @@ vector<int> twoNumberSum(vector<int> array, int targetSum) {
 
 ## <center>Test Case 1</center>
 
----
-
 ```json
 {
   "array": [3, 5, -4, 8, 11, 1, -1, 6],
@@ -81,8 +76,6 @@ vector<int> twoNumberSum(vector<int> array, int targetSum) {
 ```
 
 ## <center>Test Case 2</center>
-
----
 
 ```json
 {
@@ -93,8 +86,6 @@ vector<int> twoNumberSum(vector<int> array, int targetSum) {
 
 ## <center>Test Case 3</center>
 
----
-
 ```json
 {
   "array": [4, 6, 1],
@@ -104,8 +95,6 @@ vector<int> twoNumberSum(vector<int> array, int targetSum) {
 
 ## <center>Test Case 4</center>
 
----
-
 ```json
 {
   "array": [4, 6, 1, -3],
@@ -114,8 +103,6 @@ vector<int> twoNumberSum(vector<int> array, int targetSum) {
 ```
 
 ## <center>Test Case 5</center>
-
----
 
 ```json
 {
