@@ -17,7 +17,7 @@ array = [
 ]
 ```
 
-![Zig Zag](https://ibb.co/d5jXk11)
+![Zig Zag](https://i.ibb.co/RDYtQZZ/zigzag.png)
 
 ### Sample Output:
 
