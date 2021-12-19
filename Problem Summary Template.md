@@ -1,12 +1,10 @@
 ## Problem Name:
 
-    Problem Description
+Problem Description
 
 <br/>
 
 ---
-
-<br/>
 
 ### Sample Input:
 
@@ -23,8 +21,6 @@
 <br/>
 
 ---
-
-<br/>
 
 ## Hints:
 
@@ -56,8 +52,6 @@ using namespace std;
 ```
 
 ## <center>Test Case n</center>
-
----
 
 ```json
 
