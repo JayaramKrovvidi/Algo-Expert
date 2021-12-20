@@ -47,7 +47,31 @@ Problem Description
 using namespace std;
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 1</center>
+
+```json
+
+```
+
+## <center>Test Case 2</center>
+
+```json
+
+```
+
+## <center>Test Case 3</center>
+
+```json
+
+```
+
+## <center>Test Case 4</center>
+
+```json
+
+```
+
+## <center>Test Case 5</center>
 
 ```json
 
