@@ -129,11 +129,7 @@ vector<int> flattenMap(map<int, vector<int>> seq) {
 vector<int> zigzagTraverse(vector<vector<int>> array) {
 	int m = array.size();
 	int n = array[0].size();
-  map<int, vector<int>> seq;
-
-	for(int i=0; i<m+n-1; i++) {
-		seq.insert(pair<int, vector<int>>(i, {}));
-	}
+  	map<int, vector<int>> seq;
 
 	for (int i=0; i<m; i++) {
 		for (int j=0; j<n; j++) {
@@ -144,11 +140,11 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 			}
 		}
 	}
-  return flattenMap(seq);
+  	return flattenMap(seq);
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 1</center>
 
 ```json
 {
@@ -156,7 +152,7 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 2</center>
 
 ```json
 {
@@ -164,7 +160,7 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 3</center>
 
 ```json
 {
@@ -172,7 +168,7 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 4</center>
 
 ```json
 {
@@ -186,7 +182,7 @@ vector<int> zigzagTraverse(vector<vector<int>> array) {
 }
 ```
 
-## <center>Test Case n</center>
+## <center>Test Case 5</center>
 
 ```json
 {
